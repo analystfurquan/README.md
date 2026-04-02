@@ -6,6 +6,7 @@
 - SQL, Python, Excel
 - Power BI, Tableau, Looker
 - Data Cleaning, Storytelling & Visualization
+- AI-based solutions for Finance and Data Analysis
 
 ## 📊 Projects
 - Airbnb Dashboard (Power BI)
